@@ -1,10 +1,3 @@
-### Hola, I'm Rayan Dabbagh! 👋
+Hi, I'm Rayan Dabbagh. A little about me:
 
-- 🔭 I’m currently working on my startup, Triage AI.
-- 🌱 I’m currently training for a marathon.
-- 👯 I’m looking to hire full-stack engineers to take Triage AI to the next level.
-- 💬 Ask me about anything tech related.
-- 📫 How to reach me: www.linkedin.com/in/rayandabbagh.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I can speak four languages fluently!
-
+💻 Software Engineer @ AWS S3, EFS | Ex: FB Ads & AWS AI/ML | 🚀 Built Minerva & Triage AI (Combined 50k+ users) | Georgia Tech eng & Antler alum | 🏃‍♂️ Ironman & marathon athlete
