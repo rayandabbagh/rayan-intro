@@ -1,3 +1,16 @@
+<h1 align="left">Hi 👋, I'm Rayan Dabbagh</h1>
+
+## About Me:
+💻 Software Engineer @ AWS S3, EFS
+🧠 Ex: FB Ads & AWS AI/ML
+🚀 Built Minerva & Triage AI (Combined 50k+ users)
+🧑‍💻 Georgia Tech eng & Antler alum
+🏃‍♂️ Ironman & marathon athlete 
+
+Connect with me for 1:1 mentorship sessions on <a href="https://topmate.io/rayandabbagh" target="_blank">Topmate</a> to get personalized guidance.
+
+
+
 Hi, I'm Rayan Dabbagh. A little about me:
 
 💻 Software Engineer @ AWS S3, EFS
